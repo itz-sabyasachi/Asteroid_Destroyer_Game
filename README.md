@@ -54,10 +54,7 @@ A fast-paced, arcade-style **2D shooter game** built with **Python** and **Pygam
 ## 🖼️ Screenshots
 
 
-> `![Main Menu]([Assets/Screenshots/menu.png](https://github.com/itz-sabyasachi/Asteroid_Destroyer_Game/blob/3704e8365f7a7cda61798ab792aeffdfc2264e59/MAIN_MENU.png))`  
-> `![Gameplay]([Assets/Screenshots/gameplay.png](https://github.com/itz-sabyasachi/Asteroid_Destroyer_Game/blob/9b8ea7ceaf49efe1998970e3c10858112839355e/GAME_PLAY.png))`  
-> `![Alien Boss Fight]([Assets/Screenshots/alien.png](https://github.com/itz-sabyasachi/Asteroid_Destroyer_Game/blob/3704e8365f7a7cda61798ab792aeffdfc2264e59/ALIEN_FIGHT.png))`
-> `![GAME OVER Screen](https://github.com/itz-sabyasachi/Asteroid_Destroyer_Game/blob/9b8ea7ceaf49efe1998970e3c10858112839355e/GAME_OVER_PAGE.png)`
+
 
 ---
 
