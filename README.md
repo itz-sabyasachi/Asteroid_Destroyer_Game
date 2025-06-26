@@ -12,6 +12,9 @@ A fast-paced, arcade-style **2D shooter game** built with **Python** and **Pygam
 
 👉 [Download the latest release here](https://github.com/itz-sabyasachi/Asteroid_Destroyer_Game/releases/tag/V1.0)
 
+🔽 Scroll down and look for the "Assets" section.
+There, you’ll find the required .zip file — download and extract it go inside dist folder,double-click main.exe file to play the game.
+---
 ## 🎮 Features
 
 - 🔫 **Spaceship Controls:** Smooth movement in all directions using `WASD` keys.
